@@ -1,5 +1,3 @@
-Sure! Here is a comprehensive README in Markdown format for your GitHub repository, complete with emojis, functionality breakdown, features, usage instructions, and error troubleshooting.
-
 ---
 
 # 🚀 YOLOv8 & OC-SORT Object Tracking with ROI Counting 🖥️
@@ -94,5 +92,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Enjoy tracking with style and precision! 😎🚀 If you encounter any issues or have suggestions, feel free to open an issue or submit a pull request.
 
 ---
-
-This README provides a structured and informative overview of the project, making it easy for others to understand and use your script effectively.
